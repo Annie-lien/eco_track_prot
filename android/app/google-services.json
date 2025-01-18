@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092560628054",
+    "project_id": "eco-track-prot-0rqumv",
+    "storage_bucket": "eco-track-prot-0rqumv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092560628054:android:1c57cce5723c466c96cef7",
+        "android_client_info": {
+          "package_name": "com.mycompany.ecotrackprot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBagFJyKdjThEMkeOjBZSAKXDCTbNtLyb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
